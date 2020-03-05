@@ -11,7 +11,7 @@ $request= $_SERVER['REQUEST_URI'];
       include_once($routeList[$route]);
   }
   elseif($route==''){
-    include_once('core_index.php');
+    include_once($routeList['/']);
   }
   else{
     http_response_code(404);
