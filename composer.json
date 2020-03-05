@@ -2,7 +2,7 @@
     "name": "vilabs/core-php-router",
     "description": "A simple router for corephp. A major problem that core PHP developers or starters face is the url formatting since nobody loves a url with .php extension. This library is an open source project from Vorac Innovation Labs to help developers solve this simple problem in a simple way.",
     "type": "library",
-    "license": "MIT",
+    "license": "MIT License",
     "authors": [
         {
             "name": "Janmejay Singh",
